@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+MERGED from [org.webrtc:google-webrtc:1.0.24139] /Users/penglong/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.24139.aar/5195fc98f9a96b75cfef701ba3b28bae/AndroidManifest.xml:11:1-14:12
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/penglong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/f83a85cd7cb8f10cd3286c66123efbfa/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d0be90f4b389ef3e3dc41c6e971e67cd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc3da5c457974a6476d1fe4066bb9c0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bff53309fb9d8658f4e73aaa13ec13a2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bd7853eb46c45e4f3c9129afd5ccd11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dca31ce437fe28e72665e8578158045a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96560bb0779b3758bf90fd030cca8500/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ae8d9abdb0e8c6ba7437827096098142/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e6cf35b01ae5559b357aced323371ca7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6b9056b8beed9bdbcafea4cf8690933/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b6b32a3e118deac243aa07a61b46d5a9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f58e82db8bc3c9c55d8f370ab7f5b60e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ca7387b7859035a6124ea7364f579e0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e42270f1fb6a9f1b64f1122104ac62c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fa41ab87b80d10e1cd9863a1c43a688d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59d3d066b0d59e4ae92a5d70f1d01d16/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b86995b89ecc9a292997cec818fe397/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:1-70:12
+	package
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:2:11-39
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:6:11-36
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:4:11-57
+	xmlns:android
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:3:11-69
+	android:versionCode
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:5:11-34
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+uses-feature#android.hardware.camera
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:8:5-59
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:8:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:9:19-67
+uses-feature#0x00020000
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:10:5-12:34
+	android:glEsVersion
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:11:9-41
+	android:required
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:12:9-32
+uses-permission#android.permission.CAMERA
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:14:5-64
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:14:22-62
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:15:5-78
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:16:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:17:5-70
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:17:22-68
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:18:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:20:5-80
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:21:22-76
+uses-permission#android.permission.CAPTURE_VIDEO_OUTPUT
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:22:5-78
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:22:22-76
+application
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:25:5-69:19
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/penglong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/f83a85cd7cb8f10cd3286c66123efbfa/AndroidManifest.xml:9:5-20
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/penglong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/f83a85cd7cb8f10cd3286c66123efbfa/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:30:9-36
+	android:label
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:29:9-41
+	android:debuggable
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:27:9-34
+	tools:ignore
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:31:9-42
+	android:icon
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:26:9-36
+activity#org.appspot.apprtc.ConnectActivity
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:33:9-56:20
+	android:label
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:36:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:37:13-52
+	android:theme
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:34:13-62
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:35:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:39:17-68
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:40:17-76
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:40:27-74
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:appr.tc+data:host:appr.tc+data:scheme:http+data:scheme:https
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:43:13-55:29
+action#android.intent.action.VIEW
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:44:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:46:17-75
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:46:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:47:27-75
+data
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:49:17-51:45
+	android:host
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:50:21-43
+	android:scheme
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:51:21-43
+activity#org.appspot.apprtc.SettingsActivity
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:58:9-61:20
+	android:label
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:60:13-50
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:59:13-44
+activity#org.appspot.apprtc.CallActivity
+ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:63:9-68:20
+	android:screenOrientation
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:67:13-49
+	android:label
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:66:13-45
+	android:configChanges
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:65:13-91
+	android:name
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml:64:13-40
+uses-sdk
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+MERGED from [org.webrtc:google-webrtc:1.0.24139] /Users/penglong/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.24139.aar/5195fc98f9a96b75cfef701ba3b28bae/AndroidManifest.xml:13:3-72
+MERGED from [org.webrtc:google-webrtc:1.0.24139] /Users/penglong/.gradle/caches/transforms-1/files-1.1/google-webrtc-1.0.24139.aar/5195fc98f9a96b75cfef701ba3b28bae/AndroidManifest.xml:13:3-72
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/penglong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/f83a85cd7cb8f10cd3286c66123efbfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.tbruyelle:rxpermissions:0.10.2] /Users/penglong/.gradle/caches/transforms-1/files-1.1/rxpermissions-0.10.2.aar/f83a85cd7cb8f10cd3286c66123efbfa/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d0be90f4b389ef3e3dc41c6e971e67cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/d0be90f4b389ef3e3dc41c6e971e67cd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc3da5c457974a6476d1fe4066bb9c0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/fc3da5c457974a6476d1fe4066bb9c0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bff53309fb9d8658f4e73aaa13ec13a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/bff53309fb9d8658f4e73aaa13ec13a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bd7853eb46c45e4f3c9129afd5ccd11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/0bd7853eb46c45e4f3c9129afd5ccd11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dca31ce437fe28e72665e8578158045a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/dca31ce437fe28e72665e8578158045a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96560bb0779b3758bf90fd030cca8500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/96560bb0779b3758bf90fd030cca8500/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ae8d9abdb0e8c6ba7437827096098142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/ae8d9abdb0e8c6ba7437827096098142/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e6cf35b01ae5559b357aced323371ca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/e6cf35b01ae5559b357aced323371ca7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6b9056b8beed9bdbcafea4cf8690933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e6b9056b8beed9bdbcafea4cf8690933/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b6b32a3e118deac243aa07a61b46d5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/b6b32a3e118deac243aa07a61b46d5a9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f58e82db8bc3c9c55d8f370ab7f5b60e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/f58e82db8bc3c9c55d8f370ab7f5b60e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ca7387b7859035a6124ea7364f579e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/penglong/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4ca7387b7859035a6124ea7364f579e0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e42270f1fb6a9f1b64f1122104ac62c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4e42270f1fb6a9f1b64f1122104ac62c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fa41ab87b80d10e1cd9863a1c43a688d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/fa41ab87b80d10e1cd9863a1c43a688d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59d3d066b0d59e4ae92a5d70f1d01d16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59d3d066b0d59e4ae92a5d70f1d01d16/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b86995b89ecc9a292997cec818fe397/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/penglong/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/6b86995b89ecc9a292997cec818fe397/AndroidManifest.xml:20:5-44
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/penglong/StudioProjects/src-master-examples-androidapp/app/src/main/AndroidManifest.xml
